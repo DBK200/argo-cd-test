@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: "<<git url>>"
+    repoURL: https://github.com/DBK200/argo-cd-test.git
     targetRevision: HEAD
     path: dev
   destination: 
