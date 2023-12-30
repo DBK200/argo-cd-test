@@ -1,1 +1,2 @@
 # argo-cd-test
+test
