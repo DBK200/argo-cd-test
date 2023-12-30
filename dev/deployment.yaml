@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: saloon
-        image: claudiugurita/saloon
+        image: claudiugurita/saloon:0.0.3-SNAPSHOT
         ports:
         - containerPort: 8080
 
